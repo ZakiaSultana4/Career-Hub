@@ -1,0 +1,171 @@
+
+[                                                                            
+    {
+      "id": 1,
+      "estate_title": "Modern Single-Family Home",
+      "segment_name": "Single-family homes",
+      "description": "Contemporary single-family home with spacious interiors and a landscaped backyard.",
+      "price": "$600,000",
+      "status": "For Sale",
+      "area": "2500 sq ft",
+      "bed":1,
+      "location": "Austin, Texas",
+      "facilities": ["Gourmet Kitchen", "Backyard Patio", "Home Office"],
+      "image": "https://newhome.qodeinteractive.com/wp-content/uploads/2023/03/blog-compact-img3.jpg"
+    },
+                                                                           
+    {
+      "id": 2,
+      "estate_title": "The Ridge Of St. Joseph Apartments",
+      "segment_name": "apartments",
+      "description": "Contemporary single-family home with spacious interiors and a landscaped backyard This house was listed for $1,389,000—much higher than Phoenix’s median of $469,838. Nonetheless, this property was on the market for just 22 days before receiving an offer. While the final sales price and other details of the deal.",
+      "price": "$900,000",
+      "status": "For Rent",
+      "bed":2,
+      "area": "2700 sq ft",
+      "location": "Austin, Texas",
+      "facilities": ["living room”", "Swimming pool", "Kitchen"],
+      "image": "https://newhome.qodeinteractive.com/wp-content/uploads/2023/03/list-half-map-image-1-460x300.jpg"
+    
+    },
+    {
+      "id": 3,
+      "estate_title": "Single House Near Orland Park",
+      "segment_name": "vacation rentals",
+      "description": "Virtual Staging AI(link is external) is one example of websites and apps offering generative AI services that real estate professionals.",
+      "price": "$200,000",
+      "status": "For Rent",
+      "bed":3,
+      "area": "2800 sq ft",
+      "location": "Chicago",
+      "facilities": ["Farm", " Restaurant", "SpaGourmet Kitchen"],
+      "image": "https://newhome.qodeinteractive.com/wp-content/uploads/2023/03/list-sidebar-img-1-460x300.jpg"
+    
+    },
+    {
+      "id": 4,
+      "estate_title": "Luxury villa in las vegas",
+      "segment_name": "townhouses",
+      "description": "This house was listed for $1,389,000—much higher than Phoenix’s median of $469,838. Nonetheless, this property was on the market for just 22 days before receiving an offer. While the final sales price and other details of the deal.",
+      "price": "$800,000",
+      "status": "For Sale",
+      "bed":4,
+      "area": "1500 sq ft",
+      "location": "Staten Island",
+      "facilities": ["Gourmet Kitchen", "Backyard Patio", "Home Office"],
+      "image": "https://newhome.qodeinteractive.com/wp-content/uploads/2023/03/main-home-property-460x300.jpg"
+    
+    },
+    {
+      "id": 5,
+      "estate_title": "Bluebell Real Estate",
+      "segment_name": "apartments",
+      "description": "This House staging is a significant part of the real estate industry, and while Realtors have traditionally staged houses physically.",
+      "price": "$300,000",
+      "status": "For Sale",
+      "bed":5,
+      "area": "2000 sq ft",
+      "location": "Manhattan, Texas",
+      "facilities": ["Gourmet Kitchen", "Backyard Patio", "Home Office"],
+      "image": "https://newhome.qodeinteractive.com/wp-content/uploads/2023/03/list-half-map-image-3-460x300.jpg"
+    
+    },
+    {
+      "id": 6,
+      "estate_title": "Apartment Morden 6035 W North Ave",
+      "segment_name": "senior living communities",
+      "description": "This home is a little over 4,000 square feet, which I know I can get through in about an hour and a half if everything is ready to go and the lighting is good,” Kent says. “Here, I was met with dim lighting and a messy home that was absolutely not ready to photograph.",
+      "price": "$500,000",
+      "status": "For Rent",
+      "bed":6,
+      "area": "3000 sq ft",
+      "location": "APARTMENTS The Bronx",
+      "facilities": ["Gourmet Kitchen", "Backyard Patio", "Home Office"],
+      "image": "https://newhome.qodeinteractive.com/wp-content/uploads/2023/03/list-sidebar-img-2-460x300.jpg"
+    
+    },
+    {
+      "id": 7,
+      "estate_title": "155 Mercer St, New York",
+      "segment_name": "Single-family homes",
+      "description": "Contemporary single-family home with spacious interiors and a landscaped backyard This house was listed for $1,389,000—much higher than Phoenix’s median of $469,838. Nonetheless, this property was on the market for just 22 days before receiving an offer. While the final sales price and other details of the deal.",
+      "price": "$400,000",
+      "status": "For Rent",
+      "bed":7,
+      "area": "5500 sq ft",
+      "location": "CONDOS Manhattan",
+      "facilities": ["Gourmet Kitchen", "Backyard Patio", "Home Office"],
+      "image": "https://resido-v2.smartdemowp.com/wp-content/uploads/2021/02/p-7.jpg"
+    
+    },
+    {
+      "id": 8,
+      "estate_title": "Sky Pool Villa House for Sale",
+      "segment_name": "townhouses",
+      "description": "This house was listed for $1,389,000—much higher than Phoenix’s median of $469,838. Nonetheless, this property was on the market for just 22 days before receiving an offer. While the final sales price and other details of the deal.",
+      "price": "$100,000",
+      "status": "For Sale",
+      "bed":5,
+      "area": "8500 sq ft",
+      "location": "APARTMENTS Queens",
+      "facilities": ["Gourmet Kitchen", "Backyard Patio", "Home Office"],
+      "image": "https://resido-v2.smartdemowp.com/wp-content/uploads/2022/07/p-19.jpg"
+    
+    },
+    {
+      "id": 9,
+      "estate_title": "Countryside Modern Lake",
+      "segment_name": "senior living communities",
+      "description": "This house was listed for $1,389,000—much higher than Phoenix’s median of $469,838. Nonetheless, this property was on the market for just 22 days before receiving an offer. While the final sales price and other details of the deal.",
+      "price": "$700,000",
+      "status": "For Rent",
+      "bed":12,
+      "area": "9000 sq ft",
+      "location": "CONDOS Staten Island",
+      "facilities": ["Gourmet Kitchen", "Backyard Patio", "Home Office"],
+      "image": "https://resido-v2.smartdemowp.com/wp-content/uploads/2022/07/p-15.jpg"
+    
+    },
+    {
+      "id": 10,
+      "estate_title": "The Most Luxurious villa",
+      "segment_name": "vacation rentals",
+      "description": "This House staging is a significant part of the real estate industry, and while Realtors have traditionally staged houses physically.",
+      "price": "$600,000",
+      "status": "For Rent",
+      "bed":9,
+      "area": "2900 sq ft",
+      "location": "New Jersey",
+      "facilities": ["Gourmet Kitchen", "Backyard Patio", "Home Office"],
+      "image": "https://resido-v2.smartdemowp.com/wp-content/uploads/2022/07/p-1.jpg"
+    
+    },
+    {
+      "id": 11,
+      "estate_title": "Gorgeous Apartment Building",
+      "segment_name": "Single-family homes",
+      "description": "This home is a little over 4,000 square feet, which I know I can get through in about an hour and a half if everything is ready to go and the lighting is good,” Kent says. “Here, I was met with dim lighting and a messy home that was absolutely not ready to photograph.",
+      "price": "$500,000",
+      "status": "For Sale",
+      "bed":8,
+      "area": "6500 sq ft",
+      "location": "Claremont, California",
+      "facilities": ["Gourmet Kitchen", "Backyard Patio", "Home Office"],
+      "image": "https://www.radiustheme.com/demo/wordpress/themes/homlisti/wp-content/uploads/classified-listing/2022/03/david_lee7-400x240.jpg"
+    
+    },
+    {
+      "id": 12,
+      "estate_title": "Resort Valley Ocs",
+      "segment_name": "townhouses",
+      "description": "This home is a little over 4,000 square feet, which I know I can get through in about an hour and a half if everything is ready to go and the lighting is good,” Kent says. “Here, I was met with dim lighting and a messy home that was absolutely not ready to photograph.",
+      "price": "$700,000",
+      "status": "For Rent",
+      "bed":10,
+      "area": "4500 sq ft",
+      "location": "Louisiana",
+      "facilities": ["Gourmet Kitchen", "Backyard Patio", "Home Office"],
+      "image": "https://www.radiustheme.com/demo/wordpress/themes/homlisti/wp-content/uploads/classified-listing/2022/03/david_lee9-400x240.jpg"
+    
+    }
+]

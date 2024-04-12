@@ -47,7 +47,7 @@ const AppliedJobs = () => {
         </ul>
       </details>
       <ul>
-        <div className=" grid grid-cols-2 gap-5 mb-16">
+        <div className=" grid grid-cols-2 gap-5 mb-15">
           {displayJobs.map((job) => (
             <div key={job.id}>
               <div className="card card-compact bg-base-100 shadow-md flex border border-gray-300 h-[420px] py-10 px-5">
